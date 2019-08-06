@@ -1,2 +1,8 @@
 # fichier ~vi
 **/*~
+
+# vscode configuuration
+.vscode/*
+
+# secret.yaml
+secrets.yaml
