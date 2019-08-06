@@ -16,7 +16,7 @@ default_config:
 # http:
 #   base_url: example.duckdns.org:8123
 
-
+# asuswrt configuration
 asuswrt: !include specific/asuswrt.yaml
 
 
