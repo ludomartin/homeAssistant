@@ -1,0 +1,28 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "a4d7c715b29345ec9df712822af87960",
+                "name": "Salon"
+            },
+            {
+                "id": "9e6780e1587341a9b30bb38d43aa3611",
+                "name": "Cuisine"
+            },
+            {
+                "id": "0ea911e23c8c43b78db349fc2873cf9b",
+                "name": "Chambre"
+            },
+            {
+                "id": "aef55ae5472b4dca8bc52812ddc4f0fb",
+                "name": "Chambre Flavio"
+            },
+            {
+                "id": "6a7240a10f314a67be94e5bda9393dba",
+                "name": "Hall"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

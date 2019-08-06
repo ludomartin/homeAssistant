@@ -1,0 +1,44 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "4c0773c0292247b98e529f41dc103bd4",
+                "options": {},
+                "source": "onboarding",
+                "title": "Home",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "cast",
+                "entry_id": "691f9a5d93854dbdbbe2c790b9c75fe2",
+                "options": {},
+                "source": "zeroconf",
+                "title": "Google Cast",
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "001788FFFE61A70F",
+                    "host": "192.168.2.32",
+                    "username": "JJ96eVpndo00e784ROtCxrFrhr2ZPVwjZdQbIsyt"
+                },
+                "domain": "hue",
+                "entry_id": "a2f81ce151184aff88a3d9aa732c87c4",
+                "options": {},
+                "source": "ssdp",
+                "title": "Philips hue",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

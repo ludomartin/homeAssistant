@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-08-06T10:05:09.005822+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Ludo",
+                    "id": "6dd5c1797bae403c88a12cb77f950790",
+                    "user_id": "f889cbbcaf6545efa300937d3d38c105"
+                },
+                "context": {
+                    "id": "f030c66e4e094ba9902f6c0d67e4a2f9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.ludo",
+                "last_changed": "2019-08-05T19:19:10.839667+00:00",
+                "last_updated": "2019-08-05T19:38:13.423579+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

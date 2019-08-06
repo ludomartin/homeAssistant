@@ -1,0 +1,7 @@
+  - platform: asuswrt
+    host: router.asus.com
+    username: admin
+    password: Admin123
+    new_device_defaults:
+      track_new_devices: True
+      hide_if_away: False

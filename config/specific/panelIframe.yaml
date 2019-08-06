@@ -1,0 +1,16 @@
+  configurator:
+    title: Configurator
+    icon: mdi:wrench
+    url: http://hassio.local:3218/
+  asus:
+    title: Asus
+    icon: mdi:router-wireless
+    url: http://192.168.2.1/
+  syno:
+    title: Syno
+    icon: mdi:nas
+    url: http://192.168.2.74:5000/
+  controlpanel:
+    title: Control Panel
+    icon: mdi:tablet-ipad
+    url: http://192.168.2.16:7080

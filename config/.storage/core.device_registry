@@ -1,0 +1,173 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": "aef55ae5472b4dca8bc52812ddc4f0fb",
+                "config_entries": [
+                    "691f9a5d93854dbdbbe2c790b9c75fe2"
+                ],
+                "connections": [],
+                "id": "a3fc10afcbce446cab81694b309bead4",
+                "identifiers": [
+                    [
+                        "cast",
+                        "04bc391cda9a3f9bb2982d0c4c58447c"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home Mini",
+                "name": "Chambre",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "a4d7c715b29345ec9df712822af87960",
+                "config_entries": [
+                    "691f9a5d93854dbdbbe2c790b9c75fe2"
+                ],
+                "connections": [],
+                "id": "1e89edb0840a4ae1ad386e8c5821b04e",
+                "identifiers": [
+                    [
+                        "cast",
+                        "7b9202500de1dd542150952eb0dcf20d"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home",
+                "name": "Google Salon",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a2f81ce151184aff88a3d9aa732c87c4"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:61:a7:0f"
+                    ]
+                ],
+                "id": "f4669dcb673048109586deecb199f8be",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE61A70F"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Philips hue",
+                "name_by_user": null,
+                "sw_version": "1933087030",
+                "via_device_id": null
+            },
+            {
+                "area_id": "aef55ae5472b4dca8bc52812ddc4f0fb",
+                "config_entries": [
+                    "a2f81ce151184aff88a3d9aa732c87c4"
+                ],
+                "connections": [],
+                "id": "a2ac3fd9d1104bafac39604ce1e4faa0",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:01:14:b5:21-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue go",
+                "name": "nalix",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "f4669dcb673048109586deecb199f8be"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a2f81ce151184aff88a3d9aa732c87c4"
+                ],
+                "connections": [],
+                "id": "9ab94646f2694d7abbb48feea8eb6854",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:87:a8:81-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Hue white lamp 1",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "f4669dcb673048109586deecb199f8be"
+            },
+            {
+                "area_id": "6a7240a10f314a67be94e5bda9393dba",
+                "config_entries": [
+                    "a2f81ce151184aff88a3d9aa732c87c4"
+                ],
+                "connections": [],
+                "id": "a54d7559a9584685b381e365ee00750d",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:ea:10:07-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Hall",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "f4669dcb673048109586deecb199f8be"
+            },
+            {
+                "area_id": "a4d7c715b29345ec9df712822af87960",
+                "config_entries": [
+                    "a2f81ce151184aff88a3d9aa732c87c4"
+                ],
+                "connections": [],
+                "id": "07b8d2cf430943808f52bc6cd692b1d2",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:02:a8:ff:18-0b"
+                    ]
+                ],
+                "manufacturer": "Philips",
+                "model": "Hue white lamp",
+                "name": "Bureau",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "f4669dcb673048109586deecb199f8be"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "691f9a5d93854dbdbbe2c790b9c75fe2"
+                ],
+                "connections": [],
+                "id": "ff4820132b7f4155b5c1f8642fabe2f5",
+                "identifiers": [
+                    [
+                        "cast",
+                        "0f426f8e3f11637c2a954a766457484c"
+                    ]
+                ],
+                "manufacturer": "",
+                "model": "Chromecast",
+                "name": "ChromSalon",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}
