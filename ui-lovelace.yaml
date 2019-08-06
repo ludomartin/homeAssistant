@@ -1,0 +1,15 @@
+title: Home
+views:
+  - badges:
+      - person.ludo
+      - sun.sun
+    cards:
+      - type: sensor
+        entity: sensor.asuswrt_download
+        theme: Backend-selected
+        hours_to_show: 48
+      - type: sensor
+        entity: sensor.asuswrt_download_speed
+        hours_to_show: 48
+    path: default_view
+    title: Home
