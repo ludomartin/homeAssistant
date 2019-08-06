@@ -1,0 +1,7 @@
+# CAM cuisine
+  - platform: mjpeg
+    name: Kitchen Camera
+    still_image_url: http://192.168.2.63/image.jpg
+    mjpeg_url: http://192.168.2.63/video/mjpg.cgi
+    username: admin
+    password: !secret cam_password
