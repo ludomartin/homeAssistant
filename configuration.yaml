@@ -12,7 +12,7 @@
 # Configure a default setup of Home Assistant (frontend, api, etc)
 default_config:
 
-lovelace: !nclude specific/lovelace/lovelace.yaml
+#lovelace: !nclude specific/lovelace/lovelace.yaml
  
 
 
