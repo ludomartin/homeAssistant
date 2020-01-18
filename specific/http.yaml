@@ -1,3 +1,0 @@
-  api_password: apipassword
-  cors_allowed_origins:
-    - http://192.168.2.16:7080
