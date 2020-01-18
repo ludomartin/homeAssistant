@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-01-18T16:19:16.011397+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "ludo",
+                    "id": "ludo",
+                    "user_id": "c30d456bdf5540aeb41d5bbf3e233fef"
+                },
+                "context": {
+                    "id": "8227530a983d4b88896f36a566fa3c35",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.ludo",
+                "last_changed": "2020-01-18T16:04:15.301694+00:00",
+                "last_updated": "2020-01-18T16:04:15.301694+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
