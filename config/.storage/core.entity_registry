@@ -1,0 +1,47 @@
+{
+    "data": {
+        "entities": [
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "supported_features": 0,
+                "unique_id": "updater",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": null,
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.ludo",
+                "name": null,
+                "platform": "person",
+                "supported_features": 0,
+                "unique_id": "ludo",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "e80ede7d066a42598656d00b08734fdd",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.maison",
+                "name": null,
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "home",
+                "unit_of_measurement": null
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

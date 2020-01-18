@@ -1,0 +1,83 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "ludo"
+                },
+                "id": "6a8a28adb8834b3d9b038425f438cf62",
+                "user_id": "c30d456bdf5540aeb41d5bbf3e233fef"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": null,
+                "created_at": "2020-01-18T16:01:33.846704+00:00",
+                "id": "631d219c2b574b5784f4404f1b3c322d",
+                "jwt_key": "a429f03c1c90df9cedce1c25cbd844a1a128d866e51e84ac61bd562e2dd9d94661591e534b215cb554915ce49c19785f2ae404022b87710a3a3ed1799a4d629e",
+                "last_used_at": null,
+                "last_used_ip": null,
+                "token": "3d167bd51b31e53e920d4f0f34c54ead021f17639879b04bc0dbe4dcfe94775d359b4dc2681abcbb3ca857659ca5584272ff6514630fede3417e6934ed15c55d",
+                "token_type": "system",
+                "user_id": "94cf70dfe24b4fad91f8618577211a51"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "created_at": "2020-01-18T16:04:46.229449+00:00",
+                "id": "c4c8cf7031334a2c967569e073fbff09",
+                "jwt_key": "f78c15b36ce9f90fc72dfb2afa359c04ba07614fe920212c1de9979ae874aa1c8f4cea87c9798944843756e58f6a456e8f905258182b0b899ed30b4097c9e4b3",
+                "last_used_at": "2020-01-18T16:04:46.229712+00:00",
+                "last_used_ip": "192.168.2.102",
+                "token": "49f3750f92ca5131fa2610c8a8495ce3b15e71a6a4bc6f48e6f40fb55095d4cba57d2a677ff9bda7d21d4301eb1606a59cb6ffc414dcb33af5497d66290f7182",
+                "token_type": "normal",
+                "user_id": "c30d456bdf5540aeb41d5bbf3e233fef"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "94cf70dfe24b4fad91f8618577211a51",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "c30d456bdf5540aeb41d5bbf3e233fef",
+                "is_active": true,
+                "is_owner": true,
+                "name": "ludo",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
