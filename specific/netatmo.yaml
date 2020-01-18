@@ -1,8 +1,0 @@
-# Netatmo configuration
-# https://www.home-assistant.io/components/netatmo/
-  api_key: !secret netatmo_apiKey
-  secret_key: !secret netatmo_secretKey
-  username: ludogovic@gmail.com
-  password: !secret netatmo_pwd
-  discovery: True
-  
